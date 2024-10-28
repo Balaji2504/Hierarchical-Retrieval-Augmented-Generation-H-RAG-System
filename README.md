@@ -110,9 +110,6 @@ These questions are intended to measure the agent's ability to provide accurate 
    - Streamlit application for end-user queries.
    - Calls the agent to choose the best approach for answering queries.
 
-### **3. `Technical Challenge_LLM Engineer.pdf`**
-   - Document describing the technical challenge requirements for the LLM engineer.
-
 ---
 
 ## **Dependencies**
@@ -133,9 +130,7 @@ Contributions are welcome! Feel free to submit pull requests or open issues to h
 
 ---
 
-## **License**
 
-This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
